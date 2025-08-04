@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Madeleyner Fernández</h1>
 <h3 align="center">A fullstack software developer, in love with frontend 🖤</h3>
 
-- 🔭 I’m currently working on **NailsAgenda**
+- 🔭 I’m currently working on **CoffeConnect**
 
 - 👯 I’m looking to collaborate on **AI automatization**
 
